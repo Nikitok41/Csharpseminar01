@@ -3,7 +3,7 @@
 какое меньшее
 */
 
-Console.WriteLine("Введите перводе число для сравнения: ");
+Console.WriteLine("Введите первое число для сравнения: ");
 
 int A = Convert.ToInt32(Console.ReadLine());
 
